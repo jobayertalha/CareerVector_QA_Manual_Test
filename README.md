@@ -1,6 +1,6 @@
 # CareerVector Manual QA
 
-Manual functional testing project for the CareerVector web application. This repository is inspired by the supplied OpenCart QA deliverables and adapts their structure—test plan, test scenarios, test execution, RTM, and bug reporting—to CareerVector.
+Manual functional testing project for the CareerVector web application. This repository is inspired by the supplied OpenCart QA deliverables and adapts their structure—test plan, test scenarios, test execution, RTM, and bug reporting to CareerVector.
 
 ## Application Under Test
 https://ragapp-mmuhxs8autgvtc7vzxwbcz.streamlit.app/
